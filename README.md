@@ -1,0 +1,1 @@
+mybatis生成工具，帮助生成entity、dao、service等
